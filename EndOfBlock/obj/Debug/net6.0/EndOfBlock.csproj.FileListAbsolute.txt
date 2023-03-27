@@ -1,0 +1,15 @@
+C:\Users\ARSENIY\Desktop\EndOfBlock\EndOfBlock\EndOfBlock\bin\Debug\net6.0\EndOfBlock.exe
+C:\Users\ARSENIY\Desktop\EndOfBlock\EndOfBlock\EndOfBlock\bin\Debug\net6.0\EndOfBlock.deps.json
+C:\Users\ARSENIY\Desktop\EndOfBlock\EndOfBlock\EndOfBlock\bin\Debug\net6.0\EndOfBlock.runtimeconfig.json
+C:\Users\ARSENIY\Desktop\EndOfBlock\EndOfBlock\EndOfBlock\bin\Debug\net6.0\EndOfBlock.dll
+C:\Users\ARSENIY\Desktop\EndOfBlock\EndOfBlock\EndOfBlock\bin\Debug\net6.0\EndOfBlock.pdb
+C:\Users\ARSENIY\Desktop\EndOfBlock\EndOfBlock\EndOfBlock\obj\Debug\net6.0\EndOfBlock.csproj.AssemblyReference.cache
+C:\Users\ARSENIY\Desktop\EndOfBlock\EndOfBlock\EndOfBlock\obj\Debug\net6.0\EndOfBlock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ARSENIY\Desktop\EndOfBlock\EndOfBlock\EndOfBlock\obj\Debug\net6.0\EndOfBlock.AssemblyInfoInputs.cache
+C:\Users\ARSENIY\Desktop\EndOfBlock\EndOfBlock\EndOfBlock\obj\Debug\net6.0\EndOfBlock.AssemblyInfo.cs
+C:\Users\ARSENIY\Desktop\EndOfBlock\EndOfBlock\EndOfBlock\obj\Debug\net6.0\EndOfBlock.csproj.CoreCompileInputs.cache
+C:\Users\ARSENIY\Desktop\EndOfBlock\EndOfBlock\EndOfBlock\obj\Debug\net6.0\EndOfBlock.dll
+C:\Users\ARSENIY\Desktop\EndOfBlock\EndOfBlock\EndOfBlock\obj\Debug\net6.0\refint\EndOfBlock.dll
+C:\Users\ARSENIY\Desktop\EndOfBlock\EndOfBlock\EndOfBlock\obj\Debug\net6.0\EndOfBlock.pdb
+C:\Users\ARSENIY\Desktop\EndOfBlock\EndOfBlock\EndOfBlock\obj\Debug\net6.0\EndOfBlock.genruntimeconfig.cache
+C:\Users\ARSENIY\Desktop\EndOfBlock\EndOfBlock\EndOfBlock\obj\Debug\net6.0\ref\EndOfBlock.dll
